@@ -13,7 +13,7 @@ run_analysis.R      : the R script to transform the data
 DSM_HAR_Summary.txt : the summary data file
 
 ================
-1. Input data set
+1 Input data set
 
 This dataset is a summarized wide format version of the Human Activity Recognition Using Smartphones data set. 
 Details on the input data set can be found here:
@@ -37,7 +37,7 @@ subject_test.txt
 
 
 ========================
-2. Transformations
+2 Transformations
 
 The script run_analysis.R creates a wide data set and performs the following transformations:
 
@@ -79,7 +79,7 @@ The detailed script processing is below:
 8. writes a file called: DSM_HAR_Summary.txt
 
 ========================
-3. Output data set
+3 Output data set
 
 The transformations outlined above creates a summarized wide format dataset:
 
